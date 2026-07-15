@@ -115,8 +115,6 @@ Random Forest classifier for predicting repeat customer purchases.
 - Improve customer retention immediately after the first purchase.
 - Focus marketing efforts on high-value customer segments.
 - Optimize discount strategies using customer segmentation.
-- Integrate predictive models into marketing campaigns.
-- Use forecasting models to support financial and inventory planning.
 - Continuously monitor customer behavior through cohort and RFM analysis.
 
 ---
