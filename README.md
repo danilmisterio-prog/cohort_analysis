@@ -143,7 +143,7 @@ The project showcases practical Data Analyst skills, including data preprocessin
 
 **Danylo Myronenko**
 
-Aspiring Data Analyst
+Data Analyst
 
 - Python
 - SQL
