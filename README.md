@@ -125,7 +125,7 @@ Random Forest classifier for predicting repeat customer purchases.
 ├── Cohort_analysis.ipynb     # Complete analytical workflow
 ├── README.md                 # Project documentation
 ├── dataset.csv               # Dataset (if available)
-└── images/                   # Visualizations (optional)
+└── Cohort_analysis_DASHBOARD # Visualizations 
 ```
 
 ---
